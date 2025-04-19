@@ -1,6 +1,6 @@
 A simple project to find words for solving wordscapes puzzles - a popular mobile game
 
-Note: If using the flask server, you only need to enter the word with gaps if asnwering 'y' to the previous input
+Note: If using the flask server, you only need to enter the word with gaps if answering 'y' to the previous input
 
 main.py runs a local flask server so that input can be done in a nicer interface within the browser.
 
